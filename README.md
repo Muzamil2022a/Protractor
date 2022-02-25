@@ -2,4 +2,4 @@
 
 npm install
 
-Run = Protractor conf.js
+Run: Protractor conf.js
